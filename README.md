@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hola 👋
+
+Actualizando mi GitHub con prácticas y proyectos hechos en el ciclo de Desarrollo de Aplicaciones Web terminado en 2024 y el de Desarrollo de Aplicaciones Multiplataforma en el que estoy actualmente.
+
+
+
 
 <!--
 **ama-ya/ama-ya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
